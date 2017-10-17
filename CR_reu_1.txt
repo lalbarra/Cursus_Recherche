@@ -1,0 +1,44 @@
+Transformee en ondelette : analyse en frequence
+Somme ponderee differente des sinus et cosinus
+Generalisation Fourier
+Decomposition pertinente dun signal en dehors dun expl
+Representation d'un dictionnaire
+Factorisation matrice
+Analyse en composante principale ?
+Prendre reconnaitre des patterns 
+en vue de generaliser
+
+Faire un article en anglais a la fin du module
+Site de soumission des articles : organisation conf'
+Pour relire / reviewers / les articles de tous les autres
+Conférence analogie 2017 en décembre
+
+Réunion hebdomadaire
+
+Objectif Seance pro :
+Travail uniquement avec Python
+--> JupyterHub (notebook)
+SK : Sykit, SKlearn : a taper pour installer
+Bibliotheque de machine learning
+Classification, regression (deduire de la tete son age) , clustering
+Reduction de dimension : observation HD 1080 --> 760 dimensions / pixels
+Beaucoup moins pour representer correctement l'image
+
+Chargement de DataSet (déjà un peu inclus dans SKlearn mais pas tout)
+Sample Generator --> Manipuler les generateurs aussi !
+Data Set Simple, un genere et un complexe
+ToyDataSet : 
+mlist : reconnaissance chiffre manuscrit
+98.9% de reconnaissance !!!
+Jouer un peu avec : permet d'app les representations simples
+PCA, ICA Analyse Independante
+Clustering de type cammies
+DataSet comme Iris tres simple
+et complique comme mnist (28X28) / [...]faces
+Tester les methodes plus avancees comme le dictionary learning
+Image qui compose la representaiton des chiffres stockées
+
+
+Plus tard :
+Manifold learning 
+Deep Learning
