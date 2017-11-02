@@ -1,0 +1,15 @@
+Explain_variance_ratio_ en 3D ?
+<<1 il n'a pas "pris en compte"/appréhendé toute les données
+
+Olifaces : Remettre les choses au clair
+--> nb_components/images et taille matrice
+
+MNIST : Reduire dabord dimensions pca/ICA puis classifier
+
+Incremental_PCA : Meilleur nombre de composants
+
+Dictionary Learning
+puis Manifold Learning
+
+Regarder tjrs les attributs de sortie sklearn c interessant. 
+Test si bon resultat.

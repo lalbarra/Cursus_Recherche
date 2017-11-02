@@ -42,3 +42,8 @@ Image qui compose la representaiton des chiffres stockées
 Plus tard :
 Manifold learning 
 Deep Learning
+
+
+scikit-image
+numpy load_image
+scipy.ndimage.imread
