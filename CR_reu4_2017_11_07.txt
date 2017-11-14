@@ -1,0 +1,11 @@
+pipeline (from sklearn) : automatiquement
+list croisement entre estimateurs et clusters
+
+(on peut aussi le faire manuellement list de tous les estimateurs et on croise for ...)
+
+X -> dim Red
+(ICA PCA TSNE)
+dim Red -> Cluster 
+(k-means, SpectCluster)
+label
+
