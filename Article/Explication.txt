@@ -1,0 +1,21 @@
+Partir problemeApprentissage non supervise
+probleme Dimension
+Decrire famille reduction decomposition de dimension
+En dexomposition dataset qui vont bine
+En clustering ensuite
+UserGuide !
+On peut resumer
+Papier de BenjiOh ? (conf debut)
+Converger vers un style formel moins une transcription de parole
+On applique methodes sur 2 domaines differents
+Images et Neuronal (cf notebook)
+Encodage (cf notebook)
+Decoder reponse neuronale a des images recues (en anglais ca passe mieux)
+Abstract fait a la fin
+Section intro
+Related Work nope
+Section Methods : data sets et methodes utilisees
+Section Resultats 
+Section Conclusion: 
+TROP DE QUESTIONS
+Relire description de wikipedia ou scikitlearn
